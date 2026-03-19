@@ -1,16 +1,22 @@
 # 👋 Hello there! I'm Sunny Kumar
 
 <div align="center">
-  <img src="assets/3d_robot.png" width="600" alt="3D Robot" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00d4ff&height=200&section=header&text=SUNNY%20KUMAR&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00d4ff&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+%26+Robotics+Engineer;IoT+Innovator;Working+at+RoboAI+Hub" alt="Typing SVG" />
+  <img src="assets/3d_robot.png" width="400" alt="3D Robot" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Robotics+Engineer;IoT+Innovator;Working+at+RoboAI+Hub;Building+Future+with+Code;Transforming+Ideas+into+Reality" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=header&text=Robotics%20&%20AI%20Expertise&fontSize=40&animation=fadeIn&fontAlignY=35" />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon-separator.gif" width="100%" />
 </p>
+
+---
 
 ## 👨💻 Professional Profile
 
@@ -22,60 +28,73 @@ A passionate developer specializing in **Robotics**, **AI systems**, and **full-
 
 ## 🧠 Core Technical Expertise
 
-<details open>
-<summary><b>🤖 Robotics & Automation</b></summary>
-<ul>
-  <li>Robot design and development (hardware + software integration)</li>
-  <li>Autonomous systems and navigation</li>
-  <li>Sensor integration (Ultrasonic, IR, LDR, Temperature)</li>
-  <li>Line follower & obstacle avoidance robots</li>
-  <li>Robotic arm control (servo-based systems)</li>
-  <li>Embedded robotics using microcontrollers</li>
-</ul>
-</details>
-
-<details>
-<summary><b>🧠 Artificial Intelligence & Machine Learning</b></summary>
-<ul>
-  <li>AI-based assistant development (e.g., Nova)</li>
-  <li>Speech-to-text & text-to-speech systems</li>
-  <li>Natural Language Processing (NLP)</li>
-  <li>Model-based task automation</li>
-  <li>Computer vision (basic to intermediate)</li>
-  <li>Integration with APIs (AI services)</li>
-</ul>
-</details>
-
-<details>
-<summary><b>🔌 IoT & Embedded Systems</b></summary>
-<ul>
-  <li>Smart device development using Arduino & ESP32</li>
-  <li>Sensor-based automation systems</li>
-  <li>Wireless communication (WiFi, Bluetooth)</li>
-  <li>Real-time hardware control & monitoring</li>
-  <li>Circuit design and prototyping</li>
-</ul>
-</details>
-
-<details>
-<summary><b>🌐 Software & Full-Stack Development</b></summary>
-<ul>
-  <li><b>Languages:</b> Python, C/C++, JavaScript, Bash</li>
-  <li><b>Frontend:</b> HTML, CSS, JavaScript</li>
-  <li><b>Backend:</b> Node.js / Python frameworks</li>
-  <li><b>Tools:</b> Git, GitHub, Linux (Ubuntu, Raspberry Pi OS)</li>
-  <li><b>Frameworks:</b> ROS 2 (Robot Operating System)</li>
-</ul>
-</details>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <details open>
+          <summary><b>🤖 Robotics & Automation</b></summary>
+          <ul>
+            <li>Robot design (Hardware + Software)</li>
+            <li>Autonomous systems & Navigation</li>
+            <li>Sensor integration (Ultrasonic, IR, etc.)</li>
+            <li>Robotic arm control & Mechatronics</li>
+          </ul>
+        </details>
+      </td>
+      <td width="50%">
+        <details open>
+          <summary><b>🧠 AI & Machine Learning</b></summary>
+          <ul>
+            <li>AI Assistant development (Nova)</li>
+            <li>Speech-to-Text & TTS Systems</li>
+            <li>Natural Language Processing (NLP)</li>
+            <li>Computer Vision & API Integration</li>
+          </ul>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <details>
+          <summary><b>🔌 IoT & Embedded</b></summary>
+          <ul>
+            <li>Arduino, ESP32, Raspberry Pi</li>
+            <li>Sensor-based automation</li>
+            <li>Wireless monitoring (WiFi/BT)</li>
+            <li>Circuit design & Prototyping</li>
+          </ul>
+        </details>
+      </td>
+      <td width="50%">
+        <details>
+          <summary><b>🌐 Full-Stack & Tools</b></summary>
+          <ul>
+            <li>Python, C++, JS, Bash</li>
+            <li>Node.js & Python Frameworks</li>
+            <li>ROS 2 (Robot Operating System)</li>
+            <li>Git, GitHub, Linux Systems</li>
+          </ul>
+        </details>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Live Motion
 
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,js,nodejs,html,css,pyqt,selenium,git,github,vscode,linux,ubuntu&theme=dark" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunny-kumar8&theme=tokyonight&area=true&hide_border=true&color=00d4ff" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -88,7 +107,7 @@ A passionate developer specializing in **Robotics**, **AI systems**, and **full-
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Dynamic Analytics (Animated)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sunny-kumar8&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="GitHub Stats" />
@@ -97,7 +116,7 @@ A passionate developer specializing in **Robotics**, **AI systems**, and **full-
 
 ---
 
-### 🐍 Contribution Snake (Motion)
+### 🐍 Contribution Snake (Interactive Motion)
 
 <div align="center">
   <img src="https://github.com/Sunny-kumar8/Sunny-kumar8/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -106,6 +125,8 @@ A passionate developer specializing in **Robotics**, **AI systems**, and **full-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sunny-kumar8&color=00d4ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer" />
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Sunny-kumar8&color=00d4ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00d4ff&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&animation=fadeIn" />
 </div>
