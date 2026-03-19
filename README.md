@@ -1,41 +1,44 @@
 # 👋 Hello there! I'm Sunny Kumar
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00d4ff&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
+  <img src="assets/3d_robot.png" width="600" alt="3D Robot" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00d4ff&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Robotics+Enthusiast;Working+at+RoboAI+Hub;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=header&text=Welcome%20to%20my%20World&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=header&text=Robotics%20&%20AI%20Developer&fontSize=40&animation=fadeIn&fontAlignY=35" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🤖 Robotics & AI
 
-I'm a passionate developer who loves building innovative solutions and exploring the latest in AI and technology. My latest project, **Nova**, is a full-featured AI voice assistant!
+I'm currently focused on **Robotics at RoboAI Hub**, building the next generation of intelligent systems and humanoid automation.
 
-- 💻 Currently working on: AI & Automation
-- 🔭 I’m currently learning: Advanced LLM Integration
-- 👯 I’m looking to collaborate on: Open Source Projects
-- 💬 Ask me about: Python, AI, Web Dev
+- 🛠️ Currently building: Robotic Control Systems & AI Interfaces
+- 🔭 I’m currently learning: ROS 2 (Robot Operating System) & Computer Vision
+- 🏢 Working at: [RoboAI Hub](https://github.com/RoboAI-Hub)
+- 🤖 Project: **Nova** - The Advanced AI Voice Assistant
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack & Robotics
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,pyqt,selenium,git,github,vscode,windows&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,js,html,css,pyqt,selenium,git,github,vscode&theme=dark" />
   </a>
 </div>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats (Neon 3D Style)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sunny-kumar8&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny-kumar8&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=ffffff" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -44,7 +47,7 @@ I'm a passionate developer who loves building innovative solutions and exploring
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Snake (Motion)
 
 <div align="center">
   <img src="https://github.com/Sunny-kumar8/Sunny-kumar8/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
