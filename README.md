@@ -6,8 +6,8 @@
     Building intelligent automation systems and real-time applications at <strong>ROBOAI HUB</strong>.
   </p>
   <p align="center">
-    <a href="mailto:contactus@robonari.co.in"><img src="https://img.shields.io/badge/Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
-    <a href="https://linkedin.com/in/sunny-kumar"><img src="https://img.shields.io/badge/LinkedIn-00d4ff?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>
+    <a href="mailto:sunnykushwaha625@gmail.com"><img src="https://img.shields.io/badge/Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/sunny-kumar-b1487b33b/"><img src="https://img.shields.io/badge/LinkedIn-00d4ff?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>
     <a href="https://github.com/Sunny-kumar8"><img src="https://img.shields.io/badge/GitHub-00d4ff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>
   </p>
 </div>
